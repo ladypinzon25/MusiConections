@@ -9,8 +9,20 @@ body
     background: linear-gradient(to left, #870000 , #190A05); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 /*#img-responsive*/
-.img-responsive
-{
+.img-responsive{}
     /*max-height: 150px;*/
     /*max-width: 200px;*/
+
+    .textCenterServices{
+
+        text-align: center !important;
+    }
+    .espacio{
+        background-color: white;
+        margin: 80px;
+    }
+.espacio2{
+    background-color: white;
+    margin: 20px;
 }
+
